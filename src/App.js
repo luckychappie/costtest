@@ -10,7 +10,7 @@ function App() {
     
       <Router>
         <div>
-          <p>apple</p>
+          <p>orange</p>
           <Routes>
             <Route path='/' element={<Home />} />
           </Routes>
